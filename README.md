@@ -1,6 +1,5 @@
 # Amazon-Sales-Performance-Analysis-Using-Excel
 
-# **Amazon Sales Performance Analysis – Excel Project**
 
 ## 📌 **Project Overview**
 
